@@ -1,4 +1,3 @@
-// Jamie Morris Homework-4 Code Quiz 
 // Var with array and object for questions 
 var questions = [
     {
